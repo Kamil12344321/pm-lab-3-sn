@@ -8,9 +8,9 @@ Data: 23.05.2020 r.
 
 # Informacje o studencie
 
-Imię i nazwisko studenta: Imię Nazwisko  
-Numer albumu: 12345  
-Grupa studencka: WELE18X15N1
+Imię i nazwisko studenta: Kamil Kasprzak  
+Numer albumu: 73000
+Grupa studencka: WEL18DE1N1
 
 # Odpowiedzi do pytań z instrukcji
 ...
